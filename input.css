@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom-grid-cols {
+        grid-template-columns: auto 1fr;
+}
+.overlay{
+        background-color: rgba(0, 0, 0, 0.5);
+}
